@@ -15,7 +15,7 @@
 
 # Concert This
 
-    `node liri.js concert-this` <band name goes here>
+    node liri.js concert-this <band name goes here>
 
 ## This will display results from the Bands in Town API. The response is set to return:
 
@@ -28,7 +28,7 @@
     
 # Spotify This Song
 
-    `node liri.js spotify-this-song` <song name goes here>
+    node liri.js spotify-this-song <song name goes here>
 
 ## This will display results from the Spotify API. The response is set to return:
 
@@ -44,7 +44,7 @@
 
 # Movie This
 
-    `node liri.js movie-this` <movie name goes here>
+    node liri.js movie-this <movie name goes here>
 
 ## This will display results from the OMBD API. The response is set to return:
 
@@ -63,7 +63,7 @@
 
 # Do What It Says
 
-    `node liri.js do-what-it-says`
+    node liri.js do-what-it-says
 
 ## This reads the random.txt file that is available in the repo. It's defualt search parameters are to "Spotify This" with the search paramter of "I want it that way". The text file can be alterted to one of the above commands before the first comma, followed by your search parameter. 
 
