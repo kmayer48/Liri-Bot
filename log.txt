@@ -1,23 +1,8 @@
-
 --------------------Concert Results--------------------
 Lineup: Above & Beyond
 Venue Name: Rebel
 Venue Location: Toronto
 Date of the Event: 01-24-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Igloofest
-Venue Location: Montreal
-Date of the Event: 01-25-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Park City Live
-Venue Location: Park City
-Date of the Event: 01-27-2019
 -------------------------------------------------------
 
 --------------------Concert Results--------------------
@@ -29,13 +14,6 @@ Date of the Event: 02-01-2019
 
 --------------------Concert Results--------------------
 Lineup: Above & Beyond
-Venue Name: Laroc Club
-Venue Location: Bairro Dos Lopes
-Date of the Event: 02-02-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
 Venue Name: Mandarine Park
 Venue Location: Buenos Aires
 Date of the Event: 02-09-2019
@@ -43,16 +21,16 @@ Date of the Event: 02-09-2019
 
 --------------------Concert Results--------------------
 Lineup: Above & Beyond
-Venue Name: ASOT 900
-Venue Location: Utrecht
-Date of the Event: 02-23-2019
+Venue Name: Park City Live
+Venue Location: Park City
+Date of the Event: 01-27-2019
 -------------------------------------------------------
 
 --------------------Concert Results--------------------
 Lineup: Above & Beyond
-Venue Name: Ultra
-Venue Location: Cape Town
-Date of the Event: 03-01-2019
+Venue Name: Laroc Club
+Venue Location: Bairro Dos Lopes
+Date of the Event: 02-02-2019
 -------------------------------------------------------
 
 --------------------Concert Results--------------------
@@ -111,82 +89,103 @@ Venue Location: Weeze
 Date of the Event: 07-21-2019
 -------------------------------------------------------
 
---------------------Spotify Results--------------------
-Artist(s): Florida Georgia Line
-Song Name: May We All
-Preview Link: null
-Album Name: Dig Your Roots
+--------------------Concert Results--------------------
+Lineup: Above & Beyond
+Venue Name: Igloofest
+Venue Location: Montreal
+Date of the Event: 01-25-2019
+-------------------------------------------------------
+
+--------------------Concert Results--------------------
+Lineup: Above & Beyond
+Venue Name: ASOT 900
+Venue Location: Utrecht
+Date of the Event: 02-23-2019
+-------------------------------------------------------
+
+--------------------Concert Results--------------------
+Lineup: Above & Beyond
+Venue Name: Ultra
+Venue Location: Cape Town
+Date of the Event: 03-01-2019
 -------------------------------------------------------
 
 --------------------Spotify Results--------------------
-Artist(s): Tim McGraw
-Song Name: Thought About You
-Preview Link: https://p.scdn.co/mp3-preview/34e8efc27b89d554c5320da0b11c54669c446c54?cid=32026e3e81594149a1782362dc7b3000
-Album Name: Neon Church
+Artist(s): Andrew Bayer
+Song Name: Immortal Lover (Mixed) - In My Next Life Mix
+Preview Link: https://p.scdn.co/mp3-preview/8da0f841b9c7eee7c2cc7b5987b9f70dae8e97bf?cid=32026e3e81594149a1782362dc7b3000
+Album Name: A State Of Trance Year Mix 2018 (Mixed by Armin van Buuren)
 -------------------------------------------------------
 
 --------------------Spotify Results--------------------
-Artist(s): Taylor Swift
-Song Name: Tim McGraw
-Preview Link: null
-Album Name: Taylor Swift
+Artist(s): Andrew Bayer
+Song Name: Immortal Lover - Edit
+Preview Link: https://p.scdn.co/mp3-preview/87014a86c8b0df6d94eaef70e71ae198f3066704?cid=32026e3e81594149a1782362dc7b3000
+Album Name: Immortal Lover
 -------------------------------------------------------
 
 --------------------Spotify Results--------------------
-Artist(s): Tim McGraw
-Song Name: Humble And Kind
-Preview Link: null
-Album Name: Damn Country Music
+Artist(s): Andrew Bayer
+Song Name: Immortal Lover (In My Next Live Mix) (WYM248)
+Preview Link: https://p.scdn.co/mp3-preview/c685ef4024212427d1b0d9cab25bb1f0a4fbd5da?cid=32026e3e81594149a1782362dc7b3000
+Album Name: Wake Your Mind Radio 248 - Best Of 2018 Part 2
 -------------------------------------------------------
 
 --------------------Spotify Results--------------------
-Artist(s): Maggie Rogers
-Song Name: Tim McGraw - Recorded At Spotify Studios NYC
-Preview Link: null
-Album Name: Spotify Singles
+Artist(s): Andrew Bayer
+Song Name: Immortal Lover (ABGTN2018)
+Preview Link: https://p.scdn.co/mp3-preview/b66806c795f36dfab485121df88e2fa8cc3c119f?cid=32026e3e81594149a1782362dc7b3000
+Album Name: Group Therapy Best of 2018 pt. 2
 -------------------------------------------------------
 
 --------------------Spotify Results--------------------
-Artist(s): Tim McGraw
-Song Name: Highway Don't Care
-Preview Link: null
-Album Name: Two Lanes Of Freedom
+Artist(s): Andrew Bayer
+Song Name: Immortal Lover - Edit
+Preview Link: https://p.scdn.co/mp3-preview/87014a86c8b0df6d94eaef70e71ae198f3066704?cid=32026e3e81594149a1782362dc7b3000
+Album Name: In My Last Life
 -------------------------------------------------------
 
 --------------------Spotify Results--------------------
-Artist(s): Tim McGraw
-Song Name: Live Like You Were Dying
-Preview Link: https://p.scdn.co/mp3-preview/9b73e1776132292a8014266a6530fd28c25bb743?cid=32026e3e81594149a1782362dc7b3000
-Album Name: Live Like You Were Dying
+Artist(s): Andrew Bayer
+Song Name: Immortal Lover - In My Next Life Mix - Edit
+Preview Link: https://p.scdn.co/mp3-preview/acb10be8e0450d016314f042b0fb6bf509adef50?cid=32026e3e81594149a1782362dc7b3000
+Album Name: Immortal Lover (In My Next Life Mix)
 -------------------------------------------------------
 
 --------------------Spotify Results--------------------
-Artist(s): Tim McGraw
-Song Name: Neon Church
-Preview Link: https://p.scdn.co/mp3-preview/ab471836e41004143ff604ced86816f1f44144bf?cid=32026e3e81594149a1782362dc7b3000
-Album Name: Neon Church
+Artist(s): Andrew Bayer
+Song Name: Immortal Lover (ASOT 895) - In My Next Life Mix
+Preview Link: https://p.scdn.co/mp3-preview/9ffd6d64f6855ec981e1caeb5799f3be3fa7c2d2?cid=32026e3e81594149a1782362dc7b3000
+Album Name: ASOT 895 - A State Of Trance Episode 895 (Top 50 Of 2018 Special)
 -------------------------------------------------------
 
 --------------------Spotify Results--------------------
-Artist(s): ARTY
-Song Name: Tim
-Preview Link: https://p.scdn.co/mp3-preview/dc9d8890a5d7f47a8b9b427144516457dadfa260?cid=32026e3e81594149a1782362dc7b3000
-Album Name: Tim
+Artist(s): Andrew Bayer
+Song Name: Immortal Lover (ABGT300ABD) - In My Next Life Mix
+Preview Link: https://p.scdn.co/mp3-preview/6f2ae12722ec4ea18d0225a9e9d1b255abacfb57?cid=32026e3e81594149a1782362dc7b3000
+Album Name: Group Therapy 300 Live from Hong Kong - Andrew Bayer
 -------------------------------------------------------
 
 --------------------Spotify Results--------------------
-Artist(s): Tim McGraw
-Song Name: I Like It, I Love It
-Preview Link: https://p.scdn.co/mp3-preview/6f73ee585dc5c2722e150fc5ecf527cdf4256b3d?cid=32026e3e81594149a1782362dc7b3000
-Album Name: All I Want
+Artist(s): Andrew Bayer
+Song Name: Immortal Lover
+Preview Link: https://p.scdn.co/mp3-preview/f4dcb35cae682400bd87d1be92f54b653daf8c00?cid=32026e3e81594149a1782362dc7b3000
+Album Name: Immortal Lover
+-------------------------------------------------------
+
+--------------------Spotify Results--------------------
+Artist(s): Andrew Bayer
+Song Name: Immortal Lover
+Preview Link: https://p.scdn.co/mp3-preview/59729cc17c11e85c24bb18220cac5cdc95c3a59c?cid=32026e3e81594149a1782362dc7b3000
+Album Name: In My Last Life
 -------------------------------------------------------
 
 --------------------Movie Results----------------------
-Movie Title: Step Brothers
-Year of Release: 2008
-IMDB Rating: 6.9
+Movie Title: Pulp Fiction
+Year of Release: 1994
+IMDB Rating: 8.9
 Country Produced: USA
-Language: English, Spanish
-Plot: Two aimless middle-aged losers still living at home are forced against their will to become roommates when their parents marry.
-Movie Cast: Will Ferrell, John C. Reilly, Mary Steenburgen, Richard Jenkins
+Language: English, Spanish, French
+Plot: The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+Movie Cast: Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta
 -------------------------------------------------------
