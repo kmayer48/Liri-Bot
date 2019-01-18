@@ -51,7 +51,6 @@
     1. Movie title
     2. Year of release
     3. IMDB Rating
-    4. Rotten tomatoes rating
     5. Country produced
     6. Language
     7. Plot
@@ -67,7 +66,7 @@
 
 ## This reads the random.txt file that is available in the repo. It's defualt search parameters are to "Spotify This" with the search paramter of "I want it that way". The text file can be alterted to one of the above commands before the first comma, followed by your search parameter. 
 
-## All search results will be dynamically logged and updated in a log.txt file that the application will create. Each search will amend new results to this file.
+## All search results will be dynamically logged and updated in a log.txt file that the application will create. Each search will amend new results to this file. Be sure to delete the log.txt file that comes from the repo as this is for example. 
 
 ![](https://github.com/kmayer48/liri-bot/blob/master/gifs/txt-file.gif)
 

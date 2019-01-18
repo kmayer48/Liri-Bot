@@ -1,37 +1,3 @@
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Printworks London
-Venue Location: London
-Date of the Event: 04-13-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Parookaville
-Venue Location: Weeze
-Date of the Event: 07-21-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Igloofest
-Venue Location: Montreal
-Date of the Event: 01-25-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Park City Live
-Venue Location: Park City
-Date of the Event: 01-27-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Terminal Marítimo de Passageiros
-Venue Location: Recife
-Date of the Event: 02-01-2019
--------------------------------------------------------
 
 --------------------Concert Results--------------------
 Lineup: Above & Beyond
@@ -56,100 +22,9 @@ Date of the Event: 01-27-2019
 
 --------------------Concert Results--------------------
 Lineup: Above & Beyond
-Venue Name: Mandarine Park
-Venue Location: Buenos Aires
-Date of the Event: 02-09-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: ASOT 900
-Venue Location: Utrecht
-Date of the Event: 02-23-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Ultra
-Venue Location: Cape Town
-Date of the Event: 03-01-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Ultra
-Venue Location: Johannesburg
-Date of the Event: 03-02-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Family
-Venue Location: Brisbane
-Date of the Event: 03-15-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Transmission
-Venue Location: Sydney
-Date of the Event: 03-16-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: RC Cola Plant
-Venue Location: Miami
-Date of the Event: 03-28-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Parque Fundidora
-Venue Location: Monterrey
-Date of the Event: 04-06-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Printworks London
-Venue Location: London
-Date of the Event: 04-12-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Printworks London
-Venue Location: London
-Date of the Event: 04-13-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Parookaville
-Venue Location: Weeze
-Date of the Event: 07-21-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Laroc Club
-Venue Location: Bairro Dos Lopes
-Date of the Event: 02-02-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
 Venue Name: Terminal Marítimo de Passageiros
 Venue Location: Recife
 Date of the Event: 02-01-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Rebel
-Venue Location: Toronto
-Date of the Event: 01-24-2019
 -------------------------------------------------------
 
 --------------------Concert Results--------------------
@@ -234,27 +109,6 @@ Lineup: Above & Beyond
 Venue Name: Parookaville
 Venue Location: Weeze
 Date of the Event: 07-21-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Igloofest
-Venue Location: Montreal
-Date of the Event: 01-25-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Park City Live
-Venue Location: Park City
-Date of the Event: 01-27-2019
--------------------------------------------------------
-
---------------------Concert Results--------------------
-Lineup: Above & Beyond
-Venue Name: Terminal Marítimo de Passageiros
-Venue Location: Recife
-Date of the Event: 02-01-2019
 -------------------------------------------------------
 
 --------------------Spotify Results--------------------
@@ -262,6 +116,27 @@ Artist(s): Florida Georgia Line
 Song Name: May We All
 Preview Link: null
 Album Name: Dig Your Roots
+-------------------------------------------------------
+
+--------------------Spotify Results--------------------
+Artist(s): Tim McGraw
+Song Name: Thought About You
+Preview Link: https://p.scdn.co/mp3-preview/34e8efc27b89d554c5320da0b11c54669c446c54?cid=32026e3e81594149a1782362dc7b3000
+Album Name: Neon Church
+-------------------------------------------------------
+
+--------------------Spotify Results--------------------
+Artist(s): Taylor Swift
+Song Name: Tim McGraw
+Preview Link: null
+Album Name: Taylor Swift
+-------------------------------------------------------
+
+--------------------Spotify Results--------------------
+Artist(s): Tim McGraw
+Song Name: Humble And Kind
+Preview Link: null
+Album Name: Damn Country Music
 -------------------------------------------------------
 
 --------------------Spotify Results--------------------
@@ -287,9 +162,9 @@ Album Name: Live Like You Were Dying
 
 --------------------Spotify Results--------------------
 Artist(s): Tim McGraw
-Song Name: Humble And Kind
-Preview Link: null
-Album Name: Damn Country Music
+Song Name: Neon Church
+Preview Link: https://p.scdn.co/mp3-preview/ab471836e41004143ff604ced86816f1f44144bf?cid=32026e3e81594149a1782362dc7b3000
+Album Name: Neon Church
 -------------------------------------------------------
 
 --------------------Spotify Results--------------------
@@ -306,32 +181,10 @@ Preview Link: https://p.scdn.co/mp3-preview/6f73ee585dc5c2722e150fc5ecf527cdf425
 Album Name: All I Want
 -------------------------------------------------------
 
---------------------Spotify Results--------------------
-Artist(s): Tim McGraw
-Song Name: Thought About You
-Preview Link: https://p.scdn.co/mp3-preview/34e8efc27b89d554c5320da0b11c54669c446c54?cid=32026e3e81594149a1782362dc7b3000
-Album Name: Neon Church
--------------------------------------------------------
-
---------------------Spotify Results--------------------
-Artist(s): Taylor Swift
-Song Name: Tim McGraw
-Preview Link: null
-Album Name: Taylor Swift
--------------------------------------------------------
-
---------------------Spotify Results--------------------
-Artist(s): Tim McGraw
-Song Name: Neon Church
-Preview Link: https://p.scdn.co/mp3-preview/ab471836e41004143ff604ced86816f1f44144bf?cid=32026e3e81594149a1782362dc7b3000
-Album Name: Neon Church
--------------------------------------------------------
-
 --------------------Movie Results----------------------
 Movie Title: Step Brothers
 Year of Release: 2008
 IMDB Rating: 6.9
-Rotten Tomatoes Rating: undefined
 Country Produced: USA
 Language: English, Spanish
 Plot: Two aimless middle-aged losers still living at home are forced against their will to become roommates when their parents marry.

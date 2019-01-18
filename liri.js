@@ -138,8 +138,6 @@ function movieThis(secondCommand) {
                 "\nYear of Release: " + response.data.Year +
                 // IMDB rating
                 "\nIMDB Rating: " + response.data.imdbRating +
-                // rotten tomatoes rating
-                "\nRotten Tomatoes Rating: " + response.data.tomatoRating +
                 // country produced
                 "\nCountry Produced: " + response.data.Country +
                 // movie language
