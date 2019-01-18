@@ -22,7 +22,7 @@ for (var i = 4; i < process.argv.length; i++) {
     secondCommand += ' ' + process.argv[i];
 }
 
-// switch statement to determine which funtion to run based on user input (second command)
+// switch statement to determine which funtion to run based on user input (first command)
 switch (firstCommand) {
     case "concert-this":
         concertThis(secondCommand);
