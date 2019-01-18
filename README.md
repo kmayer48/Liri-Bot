@@ -25,7 +25,7 @@ Node Command Line Bot
     3. The venute location
     4. The date of the event converted with moment.js
 
-![]https://github.com/kmayer48/liri-bot/blob/master/gifs/concert-this.gif
+![](https://github.com/kmayer48/liri-bot/blob/master/gifs/concert-this.gif)
     
 # Spotify This Song
 
@@ -41,7 +41,7 @@ Node Command Line Bot
 
 ##### If no response is entered the default search paramter is "The Sign" by Ace of Base
 
-![]https://github.com/kmayer48/liri-bot/blob/master/gifs/spotify-this.gif
+![](https://github.com/kmayer48/liri-bot/blob/master/gifs/spotify-this.gif)
 
 # Movie This
 
@@ -60,7 +60,7 @@ Node Command Line Bot
 
 ##### If no response is entered the default search paramter is "Mr. Nobody"
 
-![]https://github.com/kmayer48/liri-bot/blob/master/gifs/movie-this.gif
+![](https://github.com/kmayer48/liri-bot/blob/master/gifs/movie-this.gif)
 
 # Do What It Says
 
