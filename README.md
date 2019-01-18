@@ -9,7 +9,7 @@ Node Command Line Bot
     * Node.js & NPM (Node Plugin Manager)
     * Clone down repo
 
-## Enter `npm install` in either Terminal or Gitbash
+#### Enter `npm install` in either Terminal or Gitbash
 
 # Available Commands
 ### On your command line enter one of the following commands:
